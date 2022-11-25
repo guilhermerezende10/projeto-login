@@ -18,6 +18,7 @@ Grandes Telas: min 1200px
     
     section#login {
         width: 80vw;
+        height: 305px;
     }
     section#login > div#imagem {
         float: left;
@@ -48,6 +49,7 @@ Grandes Telas: min 1200px
 
     section#login {
         width: 950px;
+        height: 320px;
         
     }
 
@@ -64,6 +66,7 @@ Grandes Telas: min 1200px
 
     div#formulario > p {
         font-size: 1.2em;
+        margin: 10px 0px;
     }
 
     div#formulario > h1 {
